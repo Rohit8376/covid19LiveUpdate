@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##  project url   https://rohit8376.github.io/covid19LiveUpdate/
+
 ## Available Scripts
 
 In the project directory, you can run:
